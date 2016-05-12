@@ -1,5 +1,5 @@
 gitvar randomPerson = {
-  name: 'YOLO2!',
+  name: 'YOLO2! I THINK I FINALL UNDERSTAND'
   email: 'Wonggi.lee@hackreactor.com',
   phone: 123-345-6789
 };

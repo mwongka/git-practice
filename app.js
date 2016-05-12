@@ -1,6 +1,6 @@
-var randomPerson = {
-  name: 'Kris',
-  email: 'kris.lee@hackreactor.com',
+gitvar randomPerson = {
+  name: 'YOLO',
+  email: 'Wonggi.lee@hackreactor.com',
   phone: 123-345-6789
 };
 
